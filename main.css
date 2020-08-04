@@ -17,7 +17,31 @@ body {
     margin: 10vh;
     font-style: italic;
     color: rgb(48, 47, 2);
+}
 
+.zd {
+    font-size: 3em;
+    color: brown;
+}
+
+.water {
+    font-size: 2em;
+    color: rgb(204, 112, 46);
+}
+
+.shover {
+    text-decoration: blink;
+    color: rgb(96, 29, 109);
+    font-size: 5em;
+}
+
+.footer {
+    position: fixed;
+    left: 0; bottom: 0;
+    padding: 10px;
+    background: #3998b5;
+    color: #fff;
+    width: 100%;
 }
 
 
