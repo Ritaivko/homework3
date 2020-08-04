@@ -1,0 +1,23 @@
+#identifler {
+    background: cyan;
+}
+
+body {
+    margin: 0; background-image: url(./ob-usloviyah-otdyha-i-cenah-na-nashih-morskih-kurortah.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+}
+
+.header {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    margin: 10vh;
+    font-style: italic;
+    color: rgb(48, 47, 2);
+
+}
+
+
