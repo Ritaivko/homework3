@@ -3,7 +3,7 @@
 }
 
 body {
-    margin: 0; background-image: url(./ob-usloviyah-otdyha-i-cenah-na-nashih-morskih-kurortah.jpg);
+    margin: 0; background-image: url('./asset/page-background.jpg');
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center center;
@@ -25,9 +25,10 @@ body {
     color: brown;
 }
 
-.water {
+.todo-list {
     font-size: 2em;
     color: rgb(129, 63, 15);
+    
 }
 
 .shover {
@@ -44,6 +45,8 @@ body {
     color: #fff;
     width: 100%;
 }
+
+
 
 
 
