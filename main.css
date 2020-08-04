@@ -17,16 +17,17 @@ body {
     margin: 10vh;
     font-style: italic;
     color: rgb(48, 47, 2);
+    font-weight: bold;
 }
 
 .zd {
-    font-size: 3em;
+    font-size: 1em;
     color: brown;
 }
 
 .water {
     font-size: 2em;
-    color: rgb(204, 112, 46);
+    color: rgb(129, 63, 15);
 }
 
 .shover {
@@ -43,5 +44,6 @@ body {
     color: #fff;
     width: 100%;
 }
+
 
 
