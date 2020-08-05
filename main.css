@@ -3,7 +3,7 @@
 }
 
 body {
-    margin: 0; background-image: url('./asset/page-background.jpg');
+    margin: 0; background-image: url('./page-background.jpg');
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center center;
