@@ -3,7 +3,7 @@
 }
 
 body {
-    margin: 0; background-image: url('./page-background.jpg');
+    margin: 0; background-image: url('./assets/page-background.jpg');
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center center;
@@ -46,7 +46,9 @@ body {
     width: 100%;
 }
 
-
+.todo-list td {
+    border: 1px solid #3998b5; 
+}
 
 
 
